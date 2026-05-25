@@ -1,4 +1,4 @@
-🚀 Currently I am completing my project Swiggy Sales Alalytic Dashboar using Excele!
+🚀 Currently I am completing my project Swiggy Sales Alalytics Dashboar using Excele!
 
  🔍 Key Insights:
 
@@ -11,3 +11,6 @@
 
 🎯 Skills Used
 Data Cleaning, Data Visualization, Dashboard Designing, Business Analysis, Excel Analytics
+## Dashboard Preview
+
+![Dashboard](swiggy_sales_dashboard.png.png)
